@@ -1,3 +1,8 @@
+Base de datos de una tienda de videos. Se utilizó esta plantilla que me parece bonita y versatil.
+
+
+
+
 Introduction
 ============
 
